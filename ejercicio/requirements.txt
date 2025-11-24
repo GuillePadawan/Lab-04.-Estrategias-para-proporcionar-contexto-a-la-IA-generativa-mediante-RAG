@@ -1,0 +1,11 @@
+# Dependencias del proyecto
+langchain==0.3.13
+langchain-openai==0.2.14
+langchain-community==0.3.13
+python-dotenv==1.0.1
+openai==1.59.3
+tiktoken==0.8.0
+
+# Dependencias para procesamiento de documentos
+unstructured==0.16.14
+markdown==3.7
